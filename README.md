@@ -1,3 +1,5 @@
+Sunshine with tray icon desactivate because https://github.com/LizardByte/Sunshine/issues/2778
+
 <div align="center">
   <img src="sunshine.png" />
   <h1 align="center">Sunshine</h1>
